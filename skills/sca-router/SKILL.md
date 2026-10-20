@@ -63,6 +63,7 @@ description: "侧信道攻击(side-channel attack/SCA)研究总入口与场景�
 | 设计/评估掩码对策(ISW、阈值实现) | sca-masking-countermeasures |
 | 编写或验证恒定时间代码(dudect、ct-verif) | sca-constant-time-defense |
 | 功耗/EM 轨迹采集工程(触发、采样、对齐、探头) | sca-trace-acquisition |
+| 轨迹预处理(对齐/去同步、降噪/平均、去趋势、POI/降维、压缩、DL 管线) | sca-trace-preprocessing |
 
 ## 关键细节与常见坑
 

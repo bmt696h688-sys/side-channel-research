@@ -1,6 +1,6 @@
-# SCA 技能库清单(第一批,19 个)
+# SCA 技能库清单(第一批 19 个,2026-10-20 增补 1 个)
 
-> **本目录 = 技能源文件(canonical)**: `sca-<name>/SKILL.md` 共 19 个,随仓库版本化。
+> **本目录 = 技能源文件(canonical)**: `sca-<name>/SKILL.md` 共 20 个,随仓库版本化。
 > **安装位置(运行副本)**: `C:\Users\Administrator\.zcode\workspace\default\.agents\skills\`(ZCode 标准发现路径);安装方式 = 把技能目录复制过去。
 > 所有技能的参考文献均来自本知识库的已验证条目,并内嵌各域"纠错"警告。创建:2026-09-30。
 
@@ -33,6 +33,7 @@
 | 17 | sca-masking-countermeasures | 掩码对策(ISW/高阶/阈值实现) | tvla_masking.js |
 | 18 | sca-constant-time-defense | 恒定时间编程与验证(dudect/ct-verif/FaCT) | timing_attack.js 防御对照 |
 | 19 | sca-trace-acquisition | 功耗/EM 轨迹采集工程 | — |
+| 20 | sca-trace-preprocessing | 轨迹预处理(对齐/降噪/降维/压缩/高阶与DL陷阱) | — |
 
 ## 扩充计划
 
